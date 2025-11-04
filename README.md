@@ -11,14 +11,6 @@ Professional TPA (Teleport Ask) plugin for Minecraft 1.20.1 with multi-server su
 
 See [VERSIONS.md](VERSIONS.md) for detailed compatibility information.
 
-## 🚀 Performance & Optimization
-
-- **JAR Size**: ~60KB (ultra lightweight)
-- **Memory**: Optimized for 50-500+ concurrent players
-- **Leak-Free**: Proper cleanup on player disconnect
-- **Database**: Optimized queries with indexes
-
-See [OPTIMIZATIONS.md](OPTIMIZATIONS.md) for detailed performance information.
 
 ## ✨ Features
 
